@@ -1,9 +1,13 @@
 # ARCENM: Augmented Reality-Based Campus Exploration and Navigation Map
 
 **Authors:** Joyce Marinelle B. Ablaña, Madelyn M. Llaguno, Jerome E. Obdianela
+
 **Adviser:** Roland A. Calderon, DIT
+
 **Institution:** Southern Luzon State University, Tayabas City Campus
+
 **Program:** Bachelor of Science in Industrial Technology, Major in Computer Technology
+
 **Date:** December 2024
 
 ---
