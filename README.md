@@ -4,7 +4,7 @@ An Android AR application for exploring and navigating the Southern Luzon State 
 
 🎥 **Demo video:** https://drive.google.com/file/d/1FtSZp7RHs8XhLWUyuGzijVOSO_9czt67/view?usp=sharing
 
-📦 **Download APK:** Located in the same repo (ARCENM.apk)
+📦 **Download APK:** https://drive.google.com/file/d/1FvQgIOXxKmRDJheosQ84XA9YUqNX0pNr/view?usp=sharing
 
 
 <img width="890" height="418" alt="Screenshot 2026-10-09 120401" src="https://github.com/user-attachments/assets/6037f9df-543d-4368-a01f-e983c29dda1f" />
